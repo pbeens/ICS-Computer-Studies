@@ -1,0 +1,1 @@
+Thank you to Dr Chuck (Chuck Severance) for releasing all his material under a Creative Commons Attribution license. This makes it very easy for me to share his material with my students here on my GitHub account. 
