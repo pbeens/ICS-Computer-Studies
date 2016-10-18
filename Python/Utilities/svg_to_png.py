@@ -1,7 +1,7 @@
 '''
 Program to convert all SVG files in the current folder to PNG.
 
-Bug: drawing must be within page boundaries 
+Bug: drawing must be within page boundaries
 '''
 
 from os import walk
