@@ -2,6 +2,7 @@
 Time To Wake Up
 https://github.com/pbeens/ICS-Computer-Studies/blob/master/Challenges/Time%20to%20Wake%20Up.pdf
 '''
+
 # Global Vars
 goodData = []
 months = []
@@ -12,7 +13,7 @@ monthly_avg_times = []
 def readData():
     f = open('Time To Wake Up.txt', 'r')
     lines = f.readlines()
-    # only keep the lines that hours of 05, 06, 07
+    # only keep the lines with hours of 05, 06, 07
     for line in lines:
         hour = getHour(line)
         if hour in ['05', '06', '07']:
@@ -50,10 +51,11 @@ def tidyTime(t):
     return h
 
 
-# main part of program
+# Program starts here
 readData()
 getMonths()
 
+# iterate through each month, calculating average and printing
 for month in months:
     # vars used for determining monthly averages
     numMonths = 0
