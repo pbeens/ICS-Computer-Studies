@@ -10,13 +10,14 @@
 - [Course Expectations](#course-expectations)
     - [ICS4U](#ics4u)
 - [Learning Goals](#learning-goals)
-- [Assignment - Part 1](#assignment---part-1)
-- [Assignment - Part 2](#assignment---part-2)
-- [Assignment - Part 3](#assignment---part-3)
+- [Assignment](#assignment)
+    - [Part 1](#part-1)
+    - [Part 2](#part-2)
+    - [Part 3](#part-3)
 - [Assessment](#assessment)
-    - [Assignment 1](#assignment-1)
-    - [Assignment 2](#assignment-2)
-    - [Assignment 3](#assignment-3)
+    - [Part 1](#part-1-1)
+    - [Part 2](#part-2-1)
+    - [Part 3](#part-3-1)
 
 <!-- /TOC -->
 
@@ -35,7 +36,9 @@
 
 *<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
 
-## Assignment - Part 1
+## Assignment
+
+### Part 1
 
 Watch and recreate this tutorial:
 
@@ -52,7 +55,7 @@ Add and test at least one appropriate method (function) to the Enemy class. Save
 
     *Handin folder: Python Objects*
 
-## Assignment - Part 2
+### Part 2
 
 Watch the followup video:
 
@@ -63,7 +66,7 @@ Recreate and submit the two demo programs:
 - `tuna_with_init.py`
 - `enemy_with_init.py`
 
-## Assignment - Part 3
+### Part 3
 
 See
 <a href="http://bit.ly/2W1GUPj" target="_blank">this document</a>
@@ -71,16 +74,16 @@ for details.
 
 ## Assessment
 
-### Assignment 1
+### Part 1
 
 - `enemy_1.py` recreated accurately and appropriate internal documentation added
 - `enemy_2.py` recreated accurately; appropriate internal documentation and class function (method) added
 
-### Assignment 2
+### Part 2
 
 - `tuna_with_init.py` recreated accurately and appropriate internal documentation added
 - `enemy_with_init.py` recreated accurately and appropriate internal documentation added
 
-### Assignment 3
+### Part 3
 
 - forthcoming...
