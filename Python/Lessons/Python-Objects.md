@@ -15,6 +15,8 @@
 - [Assignment - Part 3](#assignment---part-3)
 - [Assessment](#assessment)
     - [Assignment 1](#assignment-1)
+    - [Assignment 2](#assignment-2)
+    - [Assignment 3](#assignment-3)
 
 <!-- /TOC -->
 
@@ -71,5 +73,14 @@ for details.
 
 ### Assignment 1
 
-- `enemy_1.py` recreated accurately and with appropriate internal documentation
-- enemy_2.py recreated accurately and with appropriate internal documentation and 
+- `enemy_1.py` recreated accurately and appropriate internal documentation added
+- `enemy_2.py` recreated accurately; appropriate internal documentation and class function (method) added
+
+### Assignment 2
+
+- `tuna_with_init.py` recreated accurately and appropriate internal documentation added
+- `enemy_with_init.py` recreated accurately and appropriate internal documentation added
+
+### Assignment 3
+
+- forthcoming...
