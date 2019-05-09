@@ -28,12 +28,13 @@
 - We will write simple programs that include methods (aka funtions) that allow us to manipulate and/or report on the properties of an object
 - We will deconstruct a business case where objects will have to be created in our program
 
-*([Learning Goals Checklist](https://www.beens.org/learning-goals-checklist/))*
+*<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
 
 ## Assignment - Part 1
 Watch and recreate this tutorial:
 
-https://www.youtube.com/watch?v=POQIIKb1BZA
+<a href="https://www.youtube.com/watch?v=POQIIKb1BZA" target="_blank">https://www.youtube.com/watch?v=POQIIKb1BZA</a>
+
 
 Save and submit the demo program:
 - ememy_1.py (note the numbering)
@@ -47,11 +48,13 @@ Add and test at least one appropriate method (function) to the Enemy class. Save
 ## Assignment - Part 2
 Watch the followup video:
 
-https://www.youtube.com/watch?v=G8kS24CtfoI
+<a href="https://www.youtube.com/watch?v=G8kS24CtfoI" target="_blank">https://www.youtube.com/watch?v=G8kS24CtfoI</a>
+
 
 Recreate and submit the two demo programs:
 - tuna_with_init.py
 - ememy_with_init.py
 
 ## Assignment - Part 3
-See https://github.com/pbeens/ICS-Computer-Studies/tree/master/Challenges/DSBN%20Coding%20Skills%20Challenge%202018 for details.
+See 
+<a href="http://bit.ly/2W1GUPj" target="_blank">http://bit.ly/2W1GUPj</a> for details.
