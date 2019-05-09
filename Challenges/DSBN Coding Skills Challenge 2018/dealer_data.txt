@@ -1,0 +1,26 @@
+﻿V, Dodge, Caravan, 2016, Black, $16,990
+E, Bob, Smith, M, $45,000, 123456789
+E, Susie, Jones, S, $30,000, 987654321
+V, General Motors, Cadillac, 2018, Red, $37,000
+V, Chevrolet, Camaro, 1969, Flat Black, $28,000
+E, Julie, Koller, M, $45,000, 567493120
+E, Ethan, Edwards, S, $30,000, 132435465
+E, Madeline, Gale, S, $30,000, 978675641
+V, Hummer, H3, 2006, Red, $13,990
+V, Pontiac, Solstice, 2003, Blue, $35,000
+V, Fiat, Panda, 1984, Rust, $75
+E, Robert, Tribble, S, $30,000, 864624123
+V, Dodge, Charger, 1969, Orange, $23000
+V, Ford, Gran Torino, 1975, Green, $34,000
+V, Pontiac, Trans Am, 1977, Grey, $20,000
+E, Kelly, Green, S, $30,000, 343546574
+E, Paul, Savoia, S, $30,000, 343536756
+V, Nissan, Versa, 2011, Red, $8,750
+E, Patrick, Jules, S, $30,000, 214365768
+V, Chrysler, 300C, 2007, Navy Blue, $10,400
+E, Michael, Clark, S, $30,000, 231723176
+V, Honda, Civic, 2013, Blue, $9,500
+V, Lotus, Espirit, 1977, Silver, $65000
+E, Chad, Wit, S, $25,000, 438172348
+V, Volkswagen, Golf, 2011, Silver, $10,600
+V, Delorean, DMC-12, 1977, Gray, $75,000
