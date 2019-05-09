@@ -2,4 +2,4 @@ This folder contains lessons for my ICS classes. Feel free to use anything you l
 
 Lessons so far:
 
-- <README.md>
+- [README.md](README.md)
