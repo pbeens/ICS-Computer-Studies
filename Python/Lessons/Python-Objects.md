@@ -4,16 +4,15 @@
 
 ## Contents
 
-<!-- TOC -->
+<!-- TOC depthFrom:2 -->
 
-- [Python Objects Lesson](#python-objects-lesson)
-    - [Contents](#contents)
-    - [Course Expectations](#course-expectations)
-        - [ICS4U](#ics4u)
-    - [Learning Goals](#learning-goals)
-    - [Assignment - Part 1](#assignment---part-1)
-    - [Assignment - Part 2](#assignment---part-2)
-    - [Assignment - Part 3](#assignment---part-3)
+- [Contents](#contents)
+- [Course Expectations](#course-expectations)
+    - [ICS4U](#ics4u)
+- [Learning Goals](#learning-goals)
+- [Assignment - Part 1](#assignment---part-1)
+- [Assignment - Part 2](#assignment---part-2)
+- [Assignment - Part 3](#assignment---part-3)
 
 <!-- /TOC -->
 
