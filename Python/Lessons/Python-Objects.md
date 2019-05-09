@@ -2,6 +2,21 @@
 
 *Note: Be sure all programs are all well-documented with their purpose. Include URLS where appropriate.* 
 
+## Contents
+
+<!-- TOC -->
+
+- [Python Objects Lesson](#python-objects-lesson)
+    - [Contents](#contents)
+    - [Course Expectations](#course-expectations)
+        - [ICS4U](#ics4u)
+    - [Learning Goals](#learning-goals)
+    - [Assignment - Part 1](#assignment---part-1)
+    - [Assignment - Part 2](#assignment---part-2)
+    - [Assignment - Part 3](#assignment---part-3)
+
+<!-- /TOC -->
+
 ## Course Expectations
 ### ICS4U
 - A1.5 describe and use one-dimensional arrays of compound data types (e.g., objects, structures, records) in a computer program.
@@ -26,8 +41,6 @@ Save and submit the demo program:
 Add and test at least one appropriate method (function) to the Enemy class. Save and submit as:
 
 - enemy_2.py (note the numbering)
-
-A handin folder will be created when I return.
 
 *Handin folder: Python Objects*
 
