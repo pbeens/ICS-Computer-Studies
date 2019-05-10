@@ -27,7 +27,7 @@
 - LG #1
 - LG #2
 
-*<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
+\> *<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
 
 ## Resources
 
@@ -38,7 +38,7 @@
 
 Lesson details here.
 
-*Handin folder: name of folder*
+\> *Handin folder: name of folder*
 
 ## Assignment - Part 2
 
