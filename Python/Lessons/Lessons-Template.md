@@ -16,7 +16,9 @@
 <!-- /TOC -->
 
 ## Course Expectations
+
 ### Course Code
+
 - expectation 1
 - expectation 1
 
@@ -25,7 +27,7 @@
 - LG #1
 - LG #2
 
-*([Learning Goals Checklist](https://www.beens.org/learning-goals-checklist/))*
+*<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
 
 ## Resources
 
@@ -33,15 +35,19 @@
 - item 2
 
 ## Assignment - Part 1
+
 Lesson details here.
 
 *Handin folder: name of folder*
 
 ## Assignment - Part 2
+
 Lesson details here.
 
 ## Assignment - Part 3
+
 Lesson details here.
 
 ## Assessment
+
 Details here...
