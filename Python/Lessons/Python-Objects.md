@@ -7,9 +7,9 @@
 <!-- TOC depthFrom:2 -->
 
 - [Contents](#contents)
+- [Learning Goals](#learning-goals)
 - [Course Expectations](#course-expectations)
     - [ICS4U](#ics4u)
-- [Learning Goals](#learning-goals)
 - [Assignment](#assignment)
     - [Part 1](#part-1)
     - [Part 2](#part-2)
@@ -21,13 +21,6 @@
 
 <!-- /TOC -->
 
-## Course Expectations
-
-### ICS4U
-
-- A1.5 describe and use one-dimensional arrays of compound data types (e.g., objects, structures, records) in a computer program.
-- C1.1 decompose a problem into modules, classes, or abstract data types (e.g., stack, queue, dictionary) using an object-oriented design methodology (e.g., CRC [Class Responsibility Collaborator] or UML [Unified Modeling Language]);
-
 ## Learning Goals
 
 - We will write simple programs that demonstration how to *instantiate* (create) objects.
@@ -35,6 +28,13 @@
 - We will deconstruct a business case where objects will have to be created in our program
 
 *<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
+
+## Course Expectations
+
+### ICS4U
+
+- A1.5 describe and use one-dimensional arrays of compound data types (e.g., objects, structures, records) in a computer program.
+- C1.1 decompose a problem into modules, classes, or abstract data types (e.g., stack, queue, dictionary) using an object-oriented design methodology (e.g., CRC [Class Responsibility Collaborator] or UML [Unified Modeling Language]);
 
 ## Assignment
 
