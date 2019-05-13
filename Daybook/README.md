@@ -1,3 +1,5 @@
+# ICS Daybook - Semester 2 2018-2019
+
 | Date | ICS3C | ICS3U | ICS4C | ICS4U | Maksim |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 2019-05-10 | Start handing in Processing assignments converted from Hatch (1st 10) | Finish CS Circles assignments | Arcade programming cont'd | Objects assignment | tkinter exploration > METAR program
