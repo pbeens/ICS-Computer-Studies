@@ -68,6 +68,8 @@ Recreate and submit the two demo programs:
 
 ### Part 3
 
+Review [this demo](Objects-Demo/objects-demo.py) before doing the assignment. 
+
 See
 <a href="http://bit.ly/2W1GUPj" target="_blank">this document</a>
 for details.
