@@ -4,9 +4,9 @@
 
 <!-- TOC depthFrom:2 -->
 
+- [Learning Goals](#learning-goals)
 - [Course Expectations](#course-expectations)
     - [Course Code](#course-code)
-- [Learning Goals](#learning-goals)
 - [Resources](#resources)
 - [Assignment - Part 1](#assignment---part-1)
 - [Assignment - Part 2](#assignment---part-2)
@@ -15,19 +15,19 @@
 
 <!-- /TOC -->
 
-## Course Expectations
-
-### Course Code
-
-- expectation 1
-- expectation 1
-
 ## Learning Goals
 
 - LG #1
 - LG #2
 
 \> *<a href="https://www.beens.org/learning-goals-checklist/" target="_blank">Learning Goals Checklist</a>*
+
+## Course Expectations
+
+### Course Code
+
+- expectation 1
+- expectation 1
 
 ## Resources
 
