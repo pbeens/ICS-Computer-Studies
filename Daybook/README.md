@@ -16,3 +16,15 @@
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
 - [Daybook Link](https://github.com/pbeens/ICS-Computer-Studies/tree/master/Daybook)
+
+## C# Resources
+
+- [Video Tutorial](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+
+## Python Resources
+
+- [Comprehensive Python Video](https://www.youtube.com/watch?v=8DvywoWv6fI) (Dr Chuck)
+- [Tkinter Tutorial](https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
+- [CS Circles](https://cscircles.cemc.uwaterloo.ca/) (University of Waterloo)
+  - [My Assignments](https://www.beens.org/computer-studies/cs-circles/)
+- [Arcade Programming](http://programarcadegames.com/) (Pygame)
