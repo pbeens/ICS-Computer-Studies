@@ -8,8 +8,8 @@
 | **Date** | **ICS3C** | **ICS3U-Python** | **ICS3U-C#** | **ICS4C** | **ICS4U** | **Maksim** |
 | May 13 | cont'd | [Start Python challenges in Hackerrank](https://www.hackerrank.com/domains/python) | cont'd | cont'd | cont'd | See PB re opening GitHub text files; tkinter cont'd
 | May 14 | Let's record the next set of 10 to convert | ICS3U-Python | Submit progress | Submit progress | [Objects demo](../Python/Lessons/Objects-Demo/objects-demo.py) + objects assignment cont'd | review METAR conversion to tkinter |
-| May 15 | ICS3C | ICS3U-Python | ICS3U-C# | ICS4C | ICS4U | Maksim |
-| May 16 | ICS3C | ICS3U-Python | ICS3U-C# | ICS4C | ICS4U | Maksim |
+| May 15 | cont'd | cont'd | cont'd | cont'd | cont'd | cont'd |
+| May 16 | cont'd | cont'd + [sort() vs sorted() info](https://realpython.com/python-sort/) | review CS Circles progress | cont'd | cont'd (last day) + [sort() vs sorted() info](https://realpython.com/python-sort/) | cont'd |
 | May 17 | *PD Day* | -- | -- | -- | -- | -- |
 | **Date** | **ICS3C** | **ICS3U-Python** | **ICS3U-C#** | **ICS4C** | **ICS4U** | **Maksim** |
 
