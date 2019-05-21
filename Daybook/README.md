@@ -12,6 +12,11 @@
 | May 16 | cont'd | cont'd + [sort() vs sorted() info](https://realpython.com/python-sort/) | review CS Circles progress | cont'd | cont'd (last day) + [sort() vs sorted() info](https://realpython.com/python-sort/) | cont'd |
 | May 17 | *PD Day* | -- | -- | -- | -- | -- |
 | **Date** | **ICS3C** | **ICS3U-Python** | **ICS3U-C#** | **ICS4C** | **ICS4U** | **Maksim** |
+| May 21 | next 10? | [Who needs 3's, 6's, or 9's](https://sites.google.com/view/programmingchallenges/miscellaneous/who-needs-3s-6s-or-9s) (Do as Colab doc)| [Who needs 3's, 6's, or 9's](https://sites.google.com/view/programmingchallenges/miscellaneous/who-needs-3s-6s-or-9s) (do with other ICS3U students) | cont'd | [Tex Hex](https://docs.google.com/document/d/1jpHrrysVPO_enHTwFLRmIQa5Rar7wqaJLgr6ntBIubQ/edit#heading=h.smi0uodx2d5f) challenge| [Who needs 3's, 6's, or 9's](https://sites.google.com/view/programmingchallenges/miscellaneous/who-needs-3s-6s-or-9s) (Do as Colab doc) + [How to Program a GUI Application (with Python Tkinter)!](https://www.youtube.com/watch?v=D8-snVfekto)|
+| May 22 | **ICS3C** | **ICS3U-Python** | **ICS3U-C#** | **ICS4C** | **ICS4U** | METAR cont'd |
+
+
+## Misc Links
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -25,6 +30,8 @@
 
 - [Comprehensive Python Video](https://www.youtube.com/watch?v=8DvywoWv6fI) (Dr Chuck)
 - [Tkinter Tutorial](https://www.youtube.com/watch?v=RJB1Ek2Ko_Y&list=PL6gx4Cwl9DGBwibXFtPtflztSNPGuIB_d)
+- [How to Program a GUI Application (with Python Tkinter)!](https://www.youtube.com/watch?v=D8-snVfekto)
 - [CS Circles](https://cscircles.cemc.uwaterloo.ca/) (University of Waterloo)
   - [My Assignments](https://www.beens.org/computer-studies/cs-circles/)
 - [Arcade Programming](http://programarcadegames.com/) (Pygame)
+
