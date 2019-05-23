@@ -38,3 +38,7 @@
   - [My Assignments](https://www.beens.org/computer-studies/cs-circles/)
 - [Arcade Programming](http://programarcadegames.com/) (Pygame)
 
+## Processing Resources
+
+- [40 assignments converted from Hatch](https://docs.google.com/spreadsheets/d/1L6CfeGfLAJrrbgDvCV_zRu5h7V7-0Ck-Y6DRMaH6Kxs/edit#gid=0) (student access only -- sorry!)
+
