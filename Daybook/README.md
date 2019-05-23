@@ -22,7 +22,6 @@
 ## Misc Links
 
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-
 - [Daybook Link](https://github.com/pbeens/ICS-Computer-Studies/tree/master/Daybook)
 
 ## C# Resources
