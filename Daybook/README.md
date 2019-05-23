@@ -14,7 +14,8 @@
 | **Date** | **ICS3C** | **ICS3U-Python** | **ICS3U-C#** | **ICS4C** | **ICS4U** | **Maksim** |
 | May 21 | next 10? | [Who needs 3's, 6's, or 9's](https://sites.google.com/view/programmingchallenges/miscellaneous/who-needs-3s-6s-or-9s) (Do as Colab doc)| [Who needs 3's, 6's, or 9's](https://sites.google.com/view/programmingchallenges/miscellaneous/who-needs-3s-6s-or-9s) (do with other ICS3U students) | cont'd | [Tex Hex](https://docs.google.com/document/d/1jpHrrysVPO_enHTwFLRmIQa5Rar7wqaJLgr6ntBIubQ/edit#heading=h.smi0uodx2d5f) challenge| [Who needs 3's, 6's, or 9's](https://sites.google.com/view/programmingchallenges/miscellaneous/who-needs-3s-6s-or-9s) (Do as Colab doc) + [How to Program a GUI Application (with Python Tkinter)!](https://www.youtube.com/watch?v=D8-snVfekto)|
 | May 22 | submit Processing challenges | cont'd | cont'd | cont'd | [Troubling Trigrams](https://docs.google.com/document/d/1jpHrrysVPO_enHTwFLRmIQa5Rar7wqaJLgr6ntBIubQ/edit#heading=h.cxsm60nz1a2c) challenge | METAR cont'd (incorporating concepts from video) + [Okta](https://en.wikipedia.org/wiki/Okta)|
-| May 23 | **ICS3C** | [Hackerrank Practice]( https://www.hackerrank.com/dsbn-test) | [Hackerrank Practice]( https://www.hackerrank.com/dsbn-test) | cont'd | [Hackerrank Practice]( https://www.hackerrank.com/dsbn-test) | cont'd |
+| May 23 | **ICS3C** | [Hackerrank Practice]( https://www.hackerrank.com/dsbn-test) | [Hackerrank Practice]( https://www.hackerrank.com/dsbn-test) | cont'd | [Hackerrank Practice]( https://www.hackerrank.com/dsbn-test) + [Bermuda Triangle Club](https://docs.google.com/document/d/16-3TjRG5UW23U-wvCnRX-cSnG7yktDAlAN68U_4l7ik/edit#heading=h.p08igzi886po)| cont'd |
+| May 24 | cont'd | **ICS3U-Python** | **ICS3U-C#** | **ICS4C** | **ICS4U** | **Maksim** |
 | **Date** | **ICS3C** | **ICS3U-Python** | **ICS3U-C#** | **ICS4C** | **ICS4U** | **Maksim** |
 
 
