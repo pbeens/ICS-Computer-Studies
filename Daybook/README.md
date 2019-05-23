@@ -37,6 +37,7 @@
 - [CS Circles](https://cscircles.cemc.uwaterloo.ca/) (University of Waterloo)
   - [My Assignments](https://www.beens.org/computer-studies/cs-circles/)
 - [Arcade Programming](http://programarcadegames.com/) (Pygame)
+- [VS Code Download](https://code.visualstudio.com/download)
 
 ## Processing Resources
 
