@@ -41,7 +41,7 @@
 ## Processing Resources
 
 - [40 assignments converted from Hatch](https://docs.google.com/spreadsheets/d/1L6CfeGfLAJrrbgDvCV_zRu5h7V7-0Ck-Y6DRMaH6Kxs/edit#gid=0) (student access only -- sorry!)
-- Python Mode Tutorial[^1]
+- Python Mode Tutorial<sup>1</sup>
   - [Basics and Circle](https://processing-python.beens.org/2015/06/will-be-following-along-part-with-this.html)
   - [More Shapes](https://processing-python.beens.org/2015/06/more-shapes.html)
   - [If/Else & Boolean](https://processing-python.beens.org/2015/06/ifelse-and-truefalse-statements.html)
@@ -52,4 +52,4 @@
   - [String of Random Circles](https://processing-python.beens.org/2015/06/string-of-random-circles.html)
   - [Bouncing Ball](https://processing-python.beens.org/2015/06/bouncing-ball.html)
   
-[^1]: With credit to my former stuent Taylor Weiler. 
+<sup>1</sup> *With credit to my former student Taylor Weiler.* 
