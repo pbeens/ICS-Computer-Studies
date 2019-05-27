@@ -8,6 +8,16 @@ For ICS3U students, you will have to program and demonstrate one (1) "B" level q
 
 * The DSBN programming challenges can be found [here](https://sites.google.com/view/programmingchallenges/dsbnniagara-south). 
 
+## Challenge Locations
+
+The programming challenges you can choose from can be viewed [here](https://sites.google.com/view/programmingchallenges/dsbn).
+
+## Challenge Requests
+
+Submit your challenge requests [here](https://docs.google.com/forms/d/e/1FAIpQLSdLh5OX3HC2M1iFOtq3RjaigIqT70_QDJk-AhXC_xHzt0-unA/viewform).
+
+The Google Sheet with the challenges that have already been requested can be viewed [here](http://bit.ly/2HEC3eQ). Remember that it's first-come-first-served. 
+
 ## Colaboratory (Jupyter Notebook)
 
 The programs will be coded in [Colaboratory](https://colab.research.google.com) using [this template](https://colab.research.google.com/drive/1-h3pZn6n9_F7WdI6hhyQnKGmXOLPVfyM).
@@ -22,4 +32,4 @@ For an example of an excellent code walk-through, see [this video](https://www.y
 
 ## Submissions
 
-You will be submitting the Colab notebooks and each video. 
+You will be submitting the Colab notebooks and each video. Be sure the notebook and the videos are named appropriately. 
