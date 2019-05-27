@@ -6,8 +6,6 @@ For ICS4U students, you will have to program and demonstrate one (1) "C" level q
 
 For ICS3U students, you will have to program and demonstrate one (1) "B" level question and one (1) "A" level question from the DSBN programming competitions. Optionally, you can program and demonstrate four (4) "A" level questions with a penalty of 20% or three (3) "A" level questions with a penalty of 40%.
 
-* The DSBN programming challenges can be found [here](https://sites.google.com/view/programmingchallenges/dsbnniagara-south). 
-
 ## Challenge Locations
 
 The programming challenges you can choose from can be viewed [here](https://sites.google.com/view/programmingchallenges/dsbn).
