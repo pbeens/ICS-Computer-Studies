@@ -16,6 +16,10 @@ Submit your challenge requests [here](https://docs.google.com/forms/d/e/1FAIpQLS
 
 The Google Sheet with the challenges that have already been requested can be viewed [here](http://bit.ly/2HEC3eQ). Remember that it's first-come-first-served. 
 
+## Data Files
+
+Data files for each of the challenges (if available) can be accessed from [here](https://github.com/pbeens/CS-Challenge-Data-Files). 
+
 ## Colaboratory (Jupyter Notebook)
 
 The programs will be coded in [Colaboratory](https://colab.research.google.com) using [this template](https://colab.research.google.com/drive/1-h3pZn6n9_F7WdI6hhyQnKGmXOLPVfyM).
