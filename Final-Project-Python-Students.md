@@ -18,7 +18,7 @@ The Google Sheet with the challenges that have already been requested can be vie
 
 ## Data Files
 
-Data files for each of the challenges (if available) can be accessed from [here](https://github.com/pbeens/CS-Challenge-Data-Files). 
+Data files for each of the challenges (if available) can be accessed from [here](https://github.com/pbeens/CS-Challenge-Data-Files). See this [program stub](https://github.com/pbeens/CS-Challenge-Data-Files/blob/master/Python%20Stub.py) for how to access the files from online.
 
 ## Colaboratory (Jupyter Notebook)
 
