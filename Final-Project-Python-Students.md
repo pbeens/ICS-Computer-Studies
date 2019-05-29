@@ -1,5 +1,19 @@
 # Final Project - Python Students
 
+<!-- TOC depthFrom:2 -->
+
+- [Final Project - Python Students](#final-project---python-students)
+  - [Big Picture](#big-picture)
+  - [Challenge Locations](#challenge-locations)
+  - [Challenge Requests](#challenge-requests)
+  - [Data Files](#data-files)
+  - [Colaboratory (Jupyter Notebook)](#colaboratory-jupyter-notebook)
+  - [Code Walk-through](#code-walk-through)
+  - [Function Docstrings](#function-docstrings)
+  - [Submissions](#submissions)
+
+<!-- /TOC -->
+
 ## Big Picture
 
 For ICS4U students, you will have to program and demonstrate one (1) "C" level question from the DSBN programming competitions. Optionally, you can program and demonstrate two (2) "B" level questions with a penalty of 20% or three (3) "A" level questions with a penalty of 40%.
@@ -32,6 +46,12 @@ When the programs are finished, you will have to do a video "code walk-through" 
 
 For an example of an excellent code walk-through, see [this video](https://www.youtube.com/watch?v=b6U3rw-cH6A).
 
+## Function Docstrings
+
+See https://www.datacamp.com/community/tutorials/docstrings-python#second-head for the requirements for the function docstrings.
+
+Docstrings MUST be incorporated into all functions to describe the purpose of the function and to accurately document all inputs and return value.
+
 ## Submissions
 
-You will be submitting the Colab notebooks and each video. Be sure the notebook and the videos are named appropriately. 
+You will be submitting the Colab notebooks and each video. Be sure the notebook and the videos are named appropriately.
