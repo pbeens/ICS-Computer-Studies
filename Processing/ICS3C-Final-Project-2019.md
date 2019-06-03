@@ -45,6 +45,6 @@ Continue using the global variables as defined above:
 
 The paddle position is to be controlled with the mouse y position.
 
-The width of the paddle is to be set globally with the varibale `paddle_width` and is to be set to 5% of the window width.
+The width of the paddle is to be set globally with the variable `paddle_width` and is to be set to 5% of the window width.
 
-The height of the paddle is to be set globally with the varibale `paddle_height` and is to be set to 15% of the window height.
+The height of the paddle is to be set globally with the variable `paddle_height` and is to be set to 15% of the window height.
