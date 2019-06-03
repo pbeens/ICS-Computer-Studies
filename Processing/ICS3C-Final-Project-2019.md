@@ -12,12 +12,39 @@ Be sure all varaiable names are appropriate and self-explanatory.
 
 Use your own functions where it makes sense for "chunking" your code. See these videos for tutorials on writing your own functions: [1](https://www.youtube.com/watch?v=zBo2D3Myo6Q) | [2](https://www.youtube.com/watch?v=j_XyeWg_3EE)
 
+Be sure your program follows these style and variable naming guidelines:
+
++ <https://github.com/processing/processing/wiki/Style-Guidelines>
++ <http://www.informit.com/articles/article.aspx?p=131025&seqNum=3>
+
 ## Program 01 - Bouncing Ball
 
 Write a program where the ball is bouncing around the screen.
 
 Be sure the speed of the ball can be controlled with a global variable.
 
-Be sure the size of the screen can be set with global variables.
+Be sure the size of the window can be set with global variables `window_height` and `window_width`.
+
+The background colour of the window is to be set globally with the variable `background_colour`.
+
+The colour of the ball is to be set globally with the variable `ball_colour`.
+
+The size of the ball is to be set gloabally with the variable `ball_size`.
 
 Be sure the program meets the needs addressed in the overview, above.
+
+## Program 02 - Moveable Paddle (DRAFT - DO NOT USE)
+
+Write a program with a moveable paddle on the right side of the screen.
+
+Continue using the global variables as defined above:
+
++ `window_height`
++ `window_width`
++ `background_colour`
+
+The paddle position is to be controlled with the mouse y position.
+
+The width of the paddle is to be set globally with the varibale `paddle_width` and is to be set to 5% of the window width.
+
+The height of the paddle is to be set globally with the varibale `paddle_height` and is to be set to 15% of the window height.
