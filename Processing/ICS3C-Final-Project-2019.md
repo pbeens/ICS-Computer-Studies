@@ -48,3 +48,13 @@ The paddle position is to be controlled with the mouse y position.
 The width of the paddle is to be set globally with the variable `paddle_width` and is to be set to 5% of the window width.
 
 The height of the paddle is to be set globally with the variable `paddle_height` and is to be set to 15% of the window height.
+
+Be sure the program continues to meet the needs addressed in the overview, above.
+
+## Program 03 - Working Paddle
+
+Combine both programs above so you have a working Pong game, with your paddle (on the right) working to bounce the ball and the wall on the left working to also bounce the ball. 
+
+Continue using all the global variables mentioned above.
+
+Be sure the program continues to meet the needs addressed in the overview, above.
