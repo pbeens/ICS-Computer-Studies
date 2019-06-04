@@ -53,8 +53,13 @@ Be sure the program continues to meet the needs addressed in the overview, above
 
 ## Program 03 - Working Paddle
 
-Combine both programs above so you have a working Pong game, with your paddle (on the right) working to bounce the ball and the wall on the left working to also bounce the ball. 
+Combine both programs above so you have a working Pong game, with your paddle (on the right) working to bounce the ball and the wall on the left working to also bounce the ball.
 
 Continue using all the global variables mentioned above.
 
 Be sure the program continues to meet the needs addressed in the overview, above.
+
+## Program 04 - Second Paddle (DRAFT)
+
+- computer-controlled paddle on left
+- compensate for ball width
