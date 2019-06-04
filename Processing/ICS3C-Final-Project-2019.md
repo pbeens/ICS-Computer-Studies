@@ -33,11 +33,11 @@ The size of the ball is to be set gloabally with the variable `ball_size`.
 
 Be sure the program meets the needs addressed in the overview, above.
 
-## Program 02 - Moveable Paddle (DRAFT - DO NOT USE)
+## Program 02 - Moveable Paddle
 
 Write a program with a moveable paddle on the right side of the screen.
 
-Continue using the global variables as defined above:
+Continue using these global variables as defined above:
 
 + `window_height`
 + `window_width`
