@@ -21,7 +21,7 @@ Be sure your program follows these style and variable naming guidelines:
 
 Write a program where the ball is bouncing around the screen.
 
-Be sure the speed of the ball can be controlled with a global variable.
+Be sure the speed of the ball can be controlled with global variables (`x_speed`, `y_speed`).
 
 Be sure the size of the window can be set with global variables `window_height` and `window_width`. 
 
