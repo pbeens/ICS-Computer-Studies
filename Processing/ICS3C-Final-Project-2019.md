@@ -23,7 +23,9 @@ Write a program where the ball is bouncing around the screen.
 
 Be sure the speed of the ball can be controlled with a global variable.
 
-Be sure the size of the window can be set with global variables `window_height` and `window_width`.
+Be sure the size of the window can be set with global variables `window_height` and `window_width`. 
+
+(Note: to use variables in the `size()` function you must put `size()` in `settings()`, not `setup()`.)
 
 The background colour of the window is to be set globally with the variable `background_colour`.
 
@@ -61,5 +63,12 @@ Be sure the program continues to meet the needs addressed in the overview, above
 
 ## Program 04 - Second Paddle (DRAFT)
 
-- computer-controlled paddle on left
-- compensate for ball width
+If you have not already done so, consider the size of the ball (`ball_size`) when it bounces off any of the surfaces.
+
+Add a second paddle, this one on the left side of the screen. This paddle will be controlled by the computer, specifically the ball's y-position.
+
+## Program 05 - Keeping Score
+
+If you have not already done so, be sure the ball does not bounce off the right surface if it misses the paddle.
+
+When the ball passes through the right side, increment a score which is diplayed on the top-left corner.
