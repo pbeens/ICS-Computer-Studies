@@ -56,7 +56,7 @@ Docstrings MUST be incorporated into all functions to describe the purpose of th
 ## 8. What You Must Do To Earn Top Marks (DRAFT)
 
 - Submit your notebook via GitHub *daily* (10%<sup>1</sup>)
-- Ensure there is a suitable Commit Comment for each commit (5%)$
+- Ensure there is a suitable Commit Comment for each commit (5%)
 - Ensure the journal at the top of the notebook is completed accurately daily and has suitable, detailed comments (10%)
 - Ensure there is *extensive* internal documentation, done as text blocks to supplement any internal, more minor comments (10%)
 - Ensure each function has suitable and working docstrings (10%)
