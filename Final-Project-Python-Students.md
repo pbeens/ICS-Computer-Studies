@@ -59,7 +59,7 @@ Docstrings MUST be incorporated into all functions to describe the purpose of th
 - Ensure there is a suitable Commit Comment for each commit (5%)
 - Ensure the journal at the top of the notebook is completed accurately daily and has suitable, detailed comments (10%)
 - Ensure there is *extensive* internal documentation, done as text blocks to supplement any internal, more minor comments (10%)
-- Ensure each function has suitable and working docstrings (10%)
+- Ensure each function has suitable docstrings (10%)
 - Ensure there is at least one function that has a working doctest (grade 12 only) (5%)
 - Ensure you have created a clear, descriptive code walk-through video (or videos) and submitted it/them via Classroom (20%)
 
