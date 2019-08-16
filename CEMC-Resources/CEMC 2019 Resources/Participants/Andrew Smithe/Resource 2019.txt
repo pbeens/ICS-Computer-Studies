@@ -1,0 +1,3 @@
+https://docs.google.com/presentation/d/13XsUEpsvc3zribf--x-bvM81mCQtdd2Xw5sbW2x2o2Y/edit
+
+How to use Moodle's VPL feature to create activities that run student's code against dynamically created test cases and automatically grade it. It also has functionality to check for similarity between students' code. 
